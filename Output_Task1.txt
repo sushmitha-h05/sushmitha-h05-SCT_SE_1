@@ -1,0 +1,8 @@
+Temperature Converter
+Enter the temperature value:
+100
+Enter the input scale (C for Celsius, F for Fahrenheit, K for Kelvin):
+C
+Enter the target scale (C for Celsius, F for Fahrenheit, K for Kelvin):
+F
+Converted Temperature: 212.00 F
